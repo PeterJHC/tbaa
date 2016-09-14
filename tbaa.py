@@ -1,0 +1,37 @@
+#This is sample code for use in the TBAAP (Text-Based Ace Attorney Project). Use this sample as a guide in your own endeavours.
+
+#libraries
+import time
+#code
+print("     Turnabout Python")
+print("       by Peter Cure")
+print("")
+print("[???] No...")
+time.sleep(1)
+print("How could this... happen to me..?")
+time.sleep(1)
+print("I didn't...")
+time.sleep(1)
+print("You have to listen to me!")
+time.sleep(3)
+print("I DIDN'T DO IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIT!!!")
+time.sleep(5)
+for i in range(3):
+        print("")
+print(" December 4, 1:15 PM")
+print("   District Court")
+input("Defendant Lobby No. 3 >")
+input("[Phoenix] (Phew...) >")
+input("(What a feeling.) >")
+input("(I dunno why, but...) >")
+input("(This trial makes me feel... less human.) >")
+input("(More like... a voice. Just a flat, two-dimensional voice.) >")
+input("(Weird.) >")
+input("(I don't think I've ever done a retrial before.) >")
+input("(Maybe, for that DeMasque case, but for that, I believed in my client's innocence, so I didn't have this twinge of guilt.) >")
+print("")
+print("[???] MR. LAAAAAWYER!!! ")
+time.sleep(0.1)
+input("[Phoenix] Gaaaaa! >")
+input("What the heck?!? >")
+input("What is that voice!? >")
